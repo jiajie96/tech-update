@@ -6,13 +6,13 @@ A curated weekly digest of the latest developments across AI, engineering, gamin
 
 | Category | Description | Latest |
 |----------|-------------|--------|
-| [AI & Machine Learning](./updates/ai-ml/) | Foundation models, LLMs, training breakthroughs, AI research | [2026-04-29](./updates/ai-ml/2026-04-29.md) |
-| [AI Agents](./updates/ai-agents/) | Autonomous agents, agentic frameworks, tool use, orchestration | [2026-04-29](./updates/ai-agents/2026-04-29.md) |
-| [AI for CAD](./updates/ai4cad/) | AI-powered design, generative CAD, parametric modeling, simulation | [2026-04-29](./updates/ai4cad/2026-04-29.md) |
-| [AI for Engineering](./updates/ai4engineering/) | AI in manufacturing, robotics, structural analysis, materials science | [2026-04-29](./updates/ai4engineering/2026-04-29.md) |
-| [Computer Vision](./updates/computer-vision/) | Object detection, image generation, video understanding, 3D vision | [2026-04-29](./updates/computer-vision/2026-04-29.md) |
-| [Gaming](./updates/gaming/) | Game engines, procedural generation, game AI, industry news | [2026-04-29](./updates/gaming/2026-04-29.md) |
-| [Web3](./updates/web3/) | Blockchain, DeFi, NFTs, decentralized infrastructure, crypto | [2026-04-29](./updates/web3/2026-04-29.md) |
+| [AI & Machine Learning](./updates/ai-ml/) | Foundation models, LLMs, training breakthroughs, AI research | [2026-05-01](./updates/ai-ml/2026-05-01.md) |
+| [AI Agents](./updates/ai-agents/) | Autonomous agents, agentic frameworks, tool use, orchestration | [2026-05-01](./updates/ai-agents/2026-05-01.md) |
+| [AI for CAD](./updates/ai4cad/) | AI-powered design, generative CAD, parametric modeling, simulation | [2026-05-01](./updates/ai4cad/2026-05-01.md) |
+| [AI for Engineering](./updates/ai4engineering/) | AI in manufacturing, robotics, structural analysis, materials science | [2026-05-01](./updates/ai4engineering/2026-05-01.md) |
+| [Computer Vision](./updates/computer-vision/) | Object detection, image generation, video understanding, 3D vision | [2026-05-01](./updates/computer-vision/2026-05-01.md) |
+| [Gaming](./updates/gaming/) | Game engines, procedural generation, game AI, industry news | [2026-05-01](./updates/gaming/2026-05-01.md) |
+| [Web3](./updates/web3/) | Blockchain, DeFi, NFTs, decentralized infrastructure, crypto | [2026-05-01](./updates/web3/2026-05-01.md) |
 
 ## 🗓️ Schedule
 
@@ -24,6 +24,8 @@ Each weekly report is saved as `YYYY-MM-DD.md` inside the relevant category fold
 
 ### 2026
 
+- **Week of May 1**: [AI/ML](./updates/ai-ml/2026-05-01.md) · [Agents](./updates/ai-agents/2026-05-01.md) · [AI4CAD](./updates/ai4cad/2026-05-01.md) · [AI4Eng](./updates/ai4engineering/2026-05-01.md) · [CV](./updates/computer-vision/2026-05-01.md) · [Gaming](./updates/gaming/2026-05-01.md) · [Web3](./updates/web3/2026-05-01.md)
+- **Week of April 30**: [AI/ML](./updates/ai-ml/2026-04-30.md) · [Agents](./updates/ai-agents/2026-04-30.md) · [AI4CAD](./updates/ai4cad/2026-04-30.md) · [AI4Eng](./updates/ai4engineering/2026-04-30.md) · [CV](./updates/computer-vision/2026-04-30.md) · [Gaming](./updates/gaming/2026-04-30.md) · [Web3](./updates/web3/2026-04-30.md)
 - **Week of April 29**: [AI/ML](./updates/ai-ml/2026-04-29.md) · [Agents](./updates/ai-agents/2026-04-29.md) · [AI4CAD](./updates/ai4cad/2026-04-29.md) · [AI4Eng](./updates/ai4engineering/2026-04-29.md) · [CV](./updates/computer-vision/2026-04-29.md) · [Gaming](./updates/gaming/2026-04-29.md) · [Web3](./updates/web3/2026-04-29.md)
 - **Week of April 28**: [AI/ML](./updates/ai-ml/2026-04-28.md) · [Agents](./updates/ai-agents/2026-04-28.md) · [AI4CAD](./updates/ai4cad/2026-04-28.md) · [AI4Eng](./updates/ai4engineering/2026-04-28.md) · [CV](./updates/computer-vision/2026-04-28.md) · [Gaming](./updates/gaming/2026-04-28.md) · [Web3](./updates/web3/2026-04-28.md)
 - **Week of April 27**: [AI/ML](./updates/ai-ml/2026-04-27.md) · [Agents](./updates/ai-agents/2026-04-27.md) · [AI4CAD](./updates/ai4cad/2026-04-27.md) · [AI4Eng](./updates/ai4engineering/2026-04-27.md) · [CV](./updates/computer-vision/2026-04-27.md) · [Gaming](./updates/gaming/2026-04-27.md) · [Web3](./updates/web3/2026-04-27.md)
