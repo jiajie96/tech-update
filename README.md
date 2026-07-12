@@ -6,13 +6,13 @@ A curated weekly digest of the latest developments across AI, engineering, gamin
 
 | Category | Description | Latest |
 |----------|-------------|--------|
-| [AI & Machine Learning](./updates/ai-ml/) | Foundation models, LLMs, training breakthroughs, AI research | [2026-07-09](./updates/ai-ml/2026-07-09.md) |
-| [AI Agents](./updates/ai-agents/) | Autonomous agents, agentic frameworks, tool use, orchestration | [2026-07-09](./updates/ai-agents/2026-07-09.md) |
-| [AI for CAD](./updates/ai4cad/) | AI-powered design, generative CAD, parametric modeling, simulation | [2026-07-09](./updates/ai4cad/2026-07-09.md) |
-| [AI for Engineering](./updates/ai4engineering/) | AI in manufacturing, robotics, structural analysis, materials science | [2026-07-09](./updates/ai4engineering/2026-07-09.md) |
-| [Computer Vision](./updates/computer-vision/) | Object detection, image generation, video understanding, 3D vision | [2026-07-09](./updates/computer-vision/2026-07-09.md) |
-| [Gaming](./updates/gaming/) | Game engines, procedural generation, game AI, industry news | [2026-07-09](./updates/gaming/2026-07-09.md) |
-| [Web3](./updates/web3/) | Blockchain, DeFi, NFTs, decentralized infrastructure, crypto | [2026-07-09](./updates/web3/2026-07-09.md) |
+| [AI & Machine Learning](./updates/ai-ml/) | Foundation models, LLMs, training breakthroughs, AI research | [2026-07-11](./updates/ai-ml/2026-07-11.md) |
+| [AI Agents](./updates/ai-agents/) | Autonomous agents, agentic frameworks, tool use, orchestration | [2026-07-11](./updates/ai-agents/2026-07-11.md) |
+| [AI for CAD](./updates/ai4cad/) | AI-powered design, generative CAD, parametric modeling, simulation | [2026-07-11](./updates/ai4cad/2026-07-11.md) |
+| [AI for Engineering](./updates/ai4engineering/) | AI in manufacturing, robotics, structural analysis, materials science | [2026-07-11](./updates/ai4engineering/2026-07-11.md) |
+| [Computer Vision](./updates/computer-vision/) | Object detection, image generation, video understanding, 3D vision | [2026-07-11](./updates/computer-vision/2026-07-11.md) |
+| [Gaming](./updates/gaming/) | Game engines, procedural generation, game AI, industry news | [2026-07-11](./updates/gaming/2026-07-11.md) |
+| [Web3](./updates/web3/) | Blockchain, DeFi, NFTs, decentralized infrastructure, crypto | [2026-07-11](./updates/web3/2026-07-11.md) |
 
 ## 🗓️ Schedule
 
@@ -23,6 +23,7 @@ Each weekly report is saved as `YYYY-MM-DD.md` inside the relevant category fold
 ## 📜 Archive
 
 ### 2026
+- **Week of July 11**: [AI/ML](./updates/ai-ml/2026-07-11.md) · [Agents](./updates/ai-agents/2026-07-11.md) · [AI4CAD](./updates/ai4cad/2026-07-11.md) · [AI4Eng](./updates/ai4engineering/2026-07-11.md) · [CV](./updates/computer-vision/2026-07-11.md) · [Gaming](./updates/gaming/2026-07-11.md) · [Web3](./updates/web3/2026-07-11.md)
 - **Week of July 9**: [AI/ML](./updates/ai-ml/2026-07-09.md) · [Agents](./updates/ai-agents/2026-07-09.md) · [AI4CAD](./updates/ai4cad/2026-07-09.md) · [AI4Eng](./updates/ai4engineering/2026-07-09.md) · [CV](./updates/computer-vision/2026-07-09.md) · [Gaming](./updates/gaming/2026-07-09.md) · [Web3](./updates/web3/2026-07-09.md)
 - **Week of July 6**: [AI/ML](./updates/ai-ml/2026-07-06.md) · [Agents](./updates/ai-agents/2026-07-06.md) · [AI4CAD](./updates/ai4cad/2026-07-06.md) · [AI4Eng](./updates/ai4engineering/2026-07-06.md) · [CV](./updates/computer-vision/2026-07-06.md) · [Gaming](./updates/gaming/2026-07-06.md) · [Web3](./updates/web3/2026-07-06.md)
 - **Week of July 5**: [AI/ML](./updates/ai-ml/2026-07-05.md) · [Agents](./updates/ai-agents/2026-07-05.md) · [AI4CAD](./updates/ai4cad/2026-07-05.md) · [AI4Eng](./updates/ai4engineering/2026-07-05.md) · [CV](./updates/computer-vision/2026-07-05.md) · [Gaming](./updates/gaming/2026-07-05.md) · [Web3](./updates/web3/2026-07-05.md)
